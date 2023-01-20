@@ -1,0 +1,19 @@
+[
+ {
+  "table":"T024",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "EKGRP":"999",
+    "EKNAM":"TES for GIT111",
+    "EKTEL":"1267809980",
+    "LDEST":"",
+    "TELFX":"",
+    "TEL_NUMBER":"",
+    "TEL_EXTENS":"",
+    "SMTP_ADDR":""
+   }
+  ]
+ }
+]

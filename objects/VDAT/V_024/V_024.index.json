@@ -1,0 +1,22 @@
+[
+ {
+  "table":"T024",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"EKGRP",
+      "value":"999"
+     }
+    ],
+    "hash":"vReeIZXVjmwo8NAoBd+sA8hqrdQ="
+   }
+  ]
+ }
+]
