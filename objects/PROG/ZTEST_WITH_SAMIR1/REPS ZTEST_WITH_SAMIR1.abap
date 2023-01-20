@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ztest_with_samir1.
 write: 'test of no automatic push'.
+write: 'test of feature branch'.
