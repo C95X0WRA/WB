@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ztest_abhi1234.
-write: 'this is a DEmo of gCTS for the class'.
+write: 'this is a DEmo of gCTS for the class- revised'.
